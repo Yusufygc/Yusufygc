@@ -1,15 +1,15 @@
-<h1 align="center">Merhaba, ben Yusuf Yılmaz 👋</h1>
-<h3 align="center">Yazılım Geliştirici</h3>
+<h1 align="center">Merhaba, ben Yusuf Yağcı 👋</h1>
+<h3 align="center">Bilgisayar Mühendisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufygc&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="yusufygc" /> </p>
 
 - 🔭 Şu anda **yeni projeler** üzerinde çalışıyorum.
 
-- 🌱 **.NET Core, C# ve Clean Architecture** konularında kendimi geliştiriyorum.
+- 🌱 **Python, Makine Öğrenmesi ve Veri Bilimi ** konularında kendimi geliştiriyorum.
 
 - 👨‍💻 Tüm projelerime [https://github.com/Yusufygc?tab=repositories](https://github.com/Yusufygc?tab=repositories) adresinden ulaşabilirsiniz.
 
-- 💬 Bana **yusufyilmaz.g@outlook.com** adresinden ulaşabilirsiniz.
+- 💬 Bana **yusufygc118@gmail.com** adresinden ulaşabilirsiniz.
 
 <h3 align="left">Beni Takip Edin:</h3>
 <p align="left">
