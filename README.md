@@ -13,7 +13,7 @@
 
 <h3 align="left">Beni Takip Edin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuf-yılmaz-719588207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-yılmaz-719588207" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ysfygc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-yılmaz-719588207" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
