@@ -5,7 +5,7 @@
 
 - 🔭 Şu anda **yeni projeler** üzerinde çalışıyorum.
 
-- 🌱 **Python, Makine Öğrenmesi ve Veri Bilimi ** konularında kendimi geliştiriyorum.
+- 🌱 **Python, Makine Öğrenmesi ve Veri Bilimi** konularında kendimi geliştiriyorum.
 
 - 👨‍💻 Tüm projelerime [https://github.com/Yusufygc?tab=repositories](https://github.com/Yusufygc?tab=repositories) adresinden ulaşabilirsiniz.
 
