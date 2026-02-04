@@ -29,6 +29,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufygc&show_icons=true&locale=tr&theme=tokyonight" alt="yusufygc" /></p>
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufygc&show_icons=true&locale=tr&theme=tokyonight" alt="yusufygc" /></p>
 
 
