@@ -103,7 +103,7 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufygc&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=yusufygc&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
