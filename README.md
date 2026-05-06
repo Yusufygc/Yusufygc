@@ -101,15 +101,13 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusufygc&theme=tokyonight" height="165"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusufygc&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=yusufygc&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yusufygc&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufygc&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
