@@ -24,11 +24,11 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 - PyQt5 / PySide6 ile masaüstü uygulamalar geliştiriyorum
 - Makine öğrenmesi ve derin öğrenme üzerine çalışıyorum
 - React Native ile mobil uygulama deneyimim var
-- Iletisim: **yusufygc118@gmail.com**
+- İletişim: **yusufygc118@gmail.com**
 
 ---
 
-## Teknoloji Yigini
+## Teknoloji Yığını
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Kutuphaneler & Araclar
+### Kütüphaneler & Araçlar
 
 ![PySide6](https://img.shields.io/badge/PYSIDE6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -74,51 +74,51 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 
 ---
 
-## One Cikan Projeler
+## Öne Çıkan Projeler
 
-### Finans & Yatirim
+### Finans & Yatırım
 
-| Proje | Aciklama | Teknolojiler |
+| Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [PortfoySimulasyonu](https://github.com/Yusufygc/PortfoySimulasyonu) | BIST hisselerini takip et, agirlikli ortalama maliyet hesapla, getiri analizi yap | Python, PyQt5, MySQL, yfinance |
-| [PortfoyVarliklarini Getiri Kiyaslama](https://github.com/Yusufygc/PortfoyVarliklarini_Veya_YatirimAraclari_Getiri_Kiyaslama_Benchmark_Uygulamasi) | Portfoy varliklarini ve yatirim araclarini getiri bazinda karsilastir | Python, Jupyter |
-| [YapayZeka ile Hisse Fiyat Tahmini](https://github.com/Yusufygc/YapayZeka_ile_Hisse_Fiyat_Tahmini) | Makine ogrenmesi modelleriyle hisse senedi fiyat tahmini | Python, Scikit-learn |
-| [Veri Analizi Platformu — Hisse Arama](https://github.com/Yusufygc/Veri_Analizi_Platformu-VAP_Hisse_Arama_Kutucugu) | VAP platformuna hisse senedi arama kutusu ekleyen tarayici eklentisi | JavaScript |
-| 🔒 KAP Telegram Botu | KAP aciklamalarini anlik Telegram bildirimi ile takip et | Python, Telegram API |
-| 🔒 YapayZeka ile Hisse Duygu Analizi | Hisse senedi yorumlarinda yapay zeka tabanli duygu analizi | Python |
-| 🔒 TradingView Calisma Loglama | TradingView'de analiz notlari ve fiyat degisimi loglama eklentisi | JavaScript |
+| [PortfoySimulasyonu](https://github.com/Yusufygc/PortfoySimulasyonu) | BIST hisselerini takip et, ağırlıklı ortalama maliyet hesapla, getiri analizi yap | Python, PyQt5, MySQL, yfinance |
+| [Portföy Varlıkları Getiri Kıyaslama](https://github.com/Yusufygc/PortfoyVarliklarini_Veya_YatirimAraclari_Getiri_Kiyaslama_Benchmark_Uygulamasi) | Portföy varlıklarını ve yatırım araçlarını getiri bazında karşılaştır | Python, Jupyter |
+| [Yapay Zeka ile Hisse Fiyat Tahmini](https://github.com/Yusufygc/YapayZeka_ile_Hisse_Fiyat_Tahmini) | Makine öğrenmesi modelleriyle hisse senedi fiyat tahmini | Python, Scikit-learn |
+| [Veri Analizi Platformu — Hisse Arama](https://github.com/Yusufygc/Veri_Analizi_Platformu-VAP_Hisse_Arama_Kutucugu) | VAP platformuna hisse senedi arama kutusu ekleyen tarayıcı eklentisi | JavaScript |
+| 🔒 KAP Telegram Botu | KAP açıklamalarını anlık Telegram bildirimi ile takip et | Python, Telegram API |
+| 🔒 Yapay Zeka ile Hisse Duygu Analizi | Hisse senedi yorumlarında yapay zeka tabanlı duygu analizi | Python |
+| 🔒 TradingView Çalışma Loglama | TradingView'de analiz notları ve fiyat değişimi loglama eklentisi | JavaScript |
 
-### Masaustu Uygulamalar
+### Masaüstü Uygulamalar
 
-| Proje | Aciklama | Teknolojiler |
+| Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [Proje Yonetim Platformu](https://github.com/Yusufygc/Proje_Yonetim_Platformu) | WBS, karar ve kaynak yonetimi; Event-Bus + Dependency Injection mimarisi | Python, PySide6/PyQt6 |
-| [Baglanti Indirici](https://github.com/Yusufygc/Baglanti_Indirici) | Kuyruk sistemi, playlist destegi ve FFmpeg entegrasyonlu video/ses indirici | Python, PyQt5, yt-dlp |
-| [Faaliyet Takip Programi](https://github.com/Yusufygc/Faaliyet_Takip_Programi) | Film, dizi, oyun, kitap takip + akilli oneri + istatistik analizi | Python, PySide6, SQLite |
-| [Frame Extractor](https://github.com/Yusufygc/FrameExtractor) | Videodan kare ayiklama masaustu uygulamasi | Python, PyQt5 |
-| [Image Converter & Enhancer](https://github.com/Yusufygc/Image_ExtensionConverter_PixelEnhancer_and_SizeAdjustment_Tool) | Resim uzanti donusumu, boyut & piksel kalitesi duzenleme | Python, PySide6 |
-| [Clean Zipper](https://github.com/Yusufygc/Clean_Zipper) | Projeyi analiz edip gereksiz dosyalari temizleyerek arsivleyen akilli ZIP araci | Python |
-| 🔒 Portfolyo Web Sitesi | Kisisel portfolyo web sitesi | TypeScript, Next.js |
-| 🔒 Yurt Ici Borc Odeme Takip | Borc ve odeme takip sistemi | TypeScript |
+| [Proje Yönetim Platformu](https://github.com/Yusufygc/Proje_Yonetim_Platformu) | WBS, karar ve kaynak yönetimi; Event-Bus + Dependency Injection mimarisi | Python, PySide6/PyQt6 |
+| [Bağlantı İndirici](https://github.com/Yusufygc/Baglanti_Indirici) | Kuyruk sistemi, playlist desteği ve FFmpeg entegrasyonlu video/ses indirici | Python, PyQt5, yt-dlp |
+| [Faaliyet Takip Programı](https://github.com/Yusufygc/Faaliyet_Takip_Programi) | Film, dizi, oyun, kitap takip + akıllı öneri + istatistik analizi | Python, PySide6, SQLite |
+| [Frame Extractor](https://github.com/Yusufygc/FrameExtractor) | Videodan kare ayıklama masaüstü uygulaması | Python, PyQt5 |
+| [Image Converter & Enhancer](https://github.com/Yusufygc/Image_ExtensionConverter_PixelEnhancer_and_SizeAdjustment_Tool) | Resim uzantı dönüşümü, boyut & piksel kalitesi düzenleme | Python, PySide6 |
+| [Clean Zipper](https://github.com/Yusufygc/Clean_Zipper) | Projeyi analiz edip gereksiz dosyaları temizleyerek arşivleyen akıllı ZIP aracı | Python |
+| 🔒 Portfolyo Web Sitesi | Kişisel portfolyo web sitesi | TypeScript, Next.js |
+| 🔒 Yurt İçi Borç Ödeme Takip | Borç ve ödeme takip sistemi | TypeScript |
 
 ### Mobil
 
-| Proje | Aciklama | Teknolojiler |
+| Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [NamazTakip App](https://github.com/Yusufygc/NamazTakipApp) | Gunluk namaz takibi ve istatistikleri icin cross-platform mobil uygulama | React Native, Expo |
+| [NamazTakip App](https://github.com/Yusufygc/NamazTakipApp) | Günlük namaz takibi ve istatistikleri için cross-platform mobil uygulama | React Native, Expo |
 
-### Yapay Zeka & Goruntu Isleme
+### Yapay Zeka & Görüntü İşleme
 
-| Proje | Aciklama | Teknolojiler |
+| Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [Drone Kamera — Yaya & Tasit Tespiti](https://github.com/Yusufygc/Dron_Kamera_Goruntulari_Uzerinde_Yaya_VE_Tasit_Tespiti) | Drone goruntülerinde derin ogrenme tabanli nesne tespiti | Python, OpenCV, Deep Learning |
-| [Goruntu Isleme ile Yaya Tespiti](https://github.com/Yusufygc/Goruntu_Isleme_ile_Yaya_Tespiti) | Klasik goruntu isleme yontemleriyle yaya tespiti | Python, OpenCV |
-| [Derin Ogrenme & CNN](https://github.com/Yusufygc/DerinOgrenme_ve_CNN) | CNN mimarileri ve derin ogrenme calismalar | Python, TensorFlow |
-| [Used Cars Price Prediction](https://github.com/Yusufygc/Used_cars_price_prediction_with_mlModels) | Birden fazla ML modeliyle ikinci el arac fiyat tahmini | Python, Scikit-learn |
+| [Drone Kamera — Yaya & Taşıt Tespiti](https://github.com/Yusufygc/Dron_Kamera_Goruntulari_Uzerinde_Yaya_VE_Tasit_Tespiti) | Drone görüntülerinde derin öğrenme tabanlı nesne tespiti | Python, OpenCV, Deep Learning |
+| [Görüntü İşleme ile Yaya Tespiti](https://github.com/Yusufygc/Goruntu_Isleme_ile_Yaya_Tespiti) | Klasik görüntü işleme yöntemleriyle yaya tespiti | Python, OpenCV |
+| [Derin Öğrenme & CNN](https://github.com/Yusufygc/DerinOgrenme_ve_CNN) | CNN mimarileri ve derin öğrenme çalışmaları | Python, TensorFlow |
+| [Used Cars Price Prediction](https://github.com/Yusufygc/Used_cars_price_prediction_with_mlModels) | Birden fazla ML modeliyle ikinci el araç fiyat tahmini | Python, Scikit-learn |
 
 ---
 
-## GitHub Istatistikleri
+## GitHub İstatistikleri
 
 <div align="center">
 
