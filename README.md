@@ -4,13 +4,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yusufygc&label=Profil%20Görüntülenme&color=0e75b6&style=flat-square" alt="yusufygc" />
-&nbsp;
 <a href="https://linkedin.com/in/ysfygc">
   <img src="https://img.shields.io/badge/LinkedIn-ysfygc-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Sakarya_University-Computer_Engineering-4B8BBE?style=flat-square&logo=graduation-cap&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-48_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </div>
 
@@ -24,11 +24,11 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 - PyQt5 / PySide6 ile masaüstü uygulamalar geliştiriyorum
 - Makine öğrenmesi ve derin öğrenme üzerine çalışıyorum
 - React Native ile mobil uygulama deneyimim var
-- İletişim: **yusufygc118@gmail.com**
+- Iletisim: **yusufygc118@gmail.com**
 
 ---
 
-## Teknoloji Yığını
+## Teknoloji Yigini
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Kütüphaneler & Araçlar**
+**Kutuphaneler & Araclar**
 
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -61,61 +61,55 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Uygulama gelişt
 
 ---
 
-## Öne Çıkan Projeler
+## One Cikan Projeler
 
-### 📈 Finans & Yatırım
+### Finans & Yatirim
 
-| Proje | Açıklama | Teknolojiler |
+| Proje | Aciklama | Teknolojiler |
 |-------|----------|--------------|
-| [PortfoySimulasyonu](https://github.com/Yusufygc/PortfoySimulasyonu) | BIST hisselerini takip et, ağırlıklı ortalama maliyet hesapla, getiri analizi yap | Python, PyQt5, MySQL, yfinance |
-| [PortfoyVarliklarini Getiri Kiyaslama](https://github.com/Yusufygc/PortfoyVarliklarini_Veya_YatirimAraclari_Getiri_Kiyaslama_Benchmark_Uygulamasi) | Portföy varlıklarını ve yatırım araçlarını getiri bazında karşılaştır | Python, Jupyter |
-| [YapayZeka ile Hisse Fiyat Tahmini](https://github.com/Yusufygc/YapayZeka_ile_Hisse_Fiyat_Tahmini) | Makine öğrenmesi modelleriyle hisse senedi fiyat tahmini | Python, Scikit-learn |
-| [Veri Analizi Platformu — Hisse Arama](https://github.com/Yusufygc/Veri_Analizi_Platformu-VAP_Hisse_Arama_Kutucugu) | VAP platformuna hisse senedi arama kutusu ekleyen tarayıcı eklentisi | JavaScript |
-| 🔒 KAP Telegram Botu | KAP açıklamalarını anlık Telegram bildirimi ile takip et | Python, Telegram API |
-| 🔒 YapayZeka ile Hisse Duygu Analizi | Hisse senedi yorumlarında yapay zeka tabanlı duygu analizi | Python |
-| 🔒 TradingView Çalışma Loglama | TradingView'de analiz notları ve fiyat değişimi loglama eklentisi | JavaScript |
+| [PortfoySimulasyonu](https://github.com/Yusufygc/PortfoySimulasyonu) | BIST hisselerini takip et, agirlikli ortalama maliyet hesapla, getiri analizi yap | Python, PyQt5, MySQL, yfinance |
+| [PortfoyVarliklarini Getiri Kiyaslama](https://github.com/Yusufygc/PortfoyVarliklarini_Veya_YatirimAraclari_Getiri_Kiyaslama_Benchmark_Uygulamasi) | Portfoy varliklarini ve yatirim araclarini getiri bazinda karsilastir | Python, Jupyter |
+| [YapayZeka ile Hisse Fiyat Tahmini](https://github.com/Yusufygc/YapayZeka_ile_Hisse_Fiyat_Tahmini) | Makine ogrenmesi modelleriyle hisse senedi fiyat tahmini | Python, Scikit-learn |
+| [Veri Analizi Platformu — Hisse Arama](https://github.com/Yusufygc/Veri_Analizi_Platformu-VAP_Hisse_Arama_Kutucugu) | VAP platformuna hisse senedi arama kutusu ekleyen tarayici eklentisi | JavaScript |
+| 🔒 KAP Telegram Botu | KAP aciklamalarini anlik Telegram bildirimi ile takip et | Python, Telegram API |
+| 🔒 YapayZeka ile Hisse Duygu Analizi | Hisse senedi yorumlarinda yapay zeka tabanli duygu analizi | Python |
+| 🔒 TradingView Calisma Loglama | TradingView'de analiz notlari ve fiyat degisimi loglama eklentisi | JavaScript |
 
-### 🖥️ Masaüstü Uygulamalar
+### Masaustu Uygulamalar
 
-| Proje | Açıklama | Teknolojiler |
+| Proje | Aciklama | Teknolojiler |
 |-------|----------|--------------|
-| [Proje Yonetim Platformu](https://github.com/Yusufygc/Proje_Yonetim_Platformu) | WBS, karar ve kaynak yönetimi; Event-Bus + Dependency Injection mimarisi | Python, PySide6/PyQt6 |
-| [Baglanti Indirici](https://github.com/Yusufygc/Baglanti_Indirici) | Kuyruk sistemi, playlist desteği ve FFmpeg entegrasyonlu video/ses indirici | Python, PyQt5, yt-dlp |
-| [Faaliyet Takip Programi](https://github.com/Yusufygc/Faaliyet_Takip_Programi) | Film, dizi, oyun, kitap takip + akıllı öneri + istatistik analizi | Python, PySide6, SQLite |
-| [Frame Extractor](https://github.com/Yusufygc/FrameExtractor) | Videodan kare ayıklama masaüstü uygulaması | Python, PyQt5 |
-| [Image Converter & Enhancer](https://github.com/Yusufygc/Image_ExtensionConverter_PixelEnhancer_and_SizeAdjustment_Tool) | Resim uzantı dönüşümü, boyut & piksel kalitesi düzenleme | Python, PySide6 |
-| [Clean Zipper](https://github.com/Yusufygc/Clean_Zipper) | Projeyi analiz edip gereksiz dosyaları temizleyerek arşivleyen akıllı ZIP aracı | Python |
-| 🔒 Portfolyo Web Sitesi | Kişisel portfolyo web sitesi | TypeScript |
-| 🔒 Yurt İçi Borç Ödeme Takip | Borç ve ödeme takip sistemi | TypeScript |
+| [Proje Yonetim Platformu](https://github.com/Yusufygc/Proje_Yonetim_Platformu) | WBS, karar ve kaynak yonetimi; Event-Bus + Dependency Injection mimarisi | Python, PySide6/PyQt6 |
+| [Baglanti Indirici](https://github.com/Yusufygc/Baglanti_Indirici) | Kuyruk sistemi, playlist destegi ve FFmpeg entegrasyonlu video/ses indirici | Python, PyQt5, yt-dlp |
+| [Faaliyet Takip Programi](https://github.com/Yusufygc/Faaliyet_Takip_Programi) | Film, dizi, oyun, kitap takip + akilli oneri + istatistik analizi | Python, PySide6, SQLite |
+| [Frame Extractor](https://github.com/Yusufygc/FrameExtractor) | Videodan kare ayiklama masaustu uygulamasi | Python, PyQt5 |
+| [Image Converter & Enhancer](https://github.com/Yusufygc/Image_ExtensionConverter_PixelEnhancer_and_SizeAdjustment_Tool) | Resim uzanti donusumu, boyut & piksel kalitesi duzenleme | Python, PySide6 |
+| [Clean Zipper](https://github.com/Yusufygc/Clean_Zipper) | Projeyi analiz edip gereksiz dosyalari temizleyerek arsivleyen akilli ZIP araci | Python |
+| 🔒 Portfolyo Web Sitesi | Kisisel portfolyo web sitesi | TypeScript |
+| 🔒 Yurt Ici Borc Odeme Takip | Borc ve odeme takip sistemi | TypeScript |
 
-### 📱 Mobil
+### Mobil
 
-| Proje | Açıklama | Teknolojiler |
+| Proje | Aciklama | Teknolojiler |
 |-------|----------|--------------|
-| [NamazTakip App](https://github.com/Yusufygc/NamazTakipApp) | Günlük namaz takibi ve istatistikleri için cross-platform mobil uygulama | React Native, Expo |
+| [NamazTakip App](https://github.com/Yusufygc/NamazTakipApp) | Gunluk namaz takibi ve istatistikleri icin cross-platform mobil uygulama | React Native, Expo |
 
-### 🤖 Yapay Zeka & Görüntü İşleme
+### Yapay Zeka & Goruntu Isleme
 
-| Proje | Açıklama | Teknolojiler |
+| Proje | Aciklama | Teknolojiler |
 |-------|----------|--------------|
-| [Drone Kamera — Yaya & Taşıt Tespiti](https://github.com/Yusufygc/Dron_Kamera_Goruntulari_Uzerinde_Yaya_VE_Tasit_Tespiti) | Drone görüntülerinde derin öğrenme tabanlı nesne tespiti | Python, OpenCV, Deep Learning |
-| [Goruntu Isleme ile Yaya Tespiti](https://github.com/Yusufygc/Goruntu_Isleme_ile_Yaya_Tespiti) | Klasik görüntü işleme yöntemleriyle yaya tespiti | Python, OpenCV |
-| [Derin Ogrenme & CNN](https://github.com/Yusufygc/DerinOgrenme_ve_CNN) | CNN mimarileri ve derin öğrenme çalışmaları | Python, TensorFlow |
-| [Used Cars Price Prediction](https://github.com/Yusufygc/Used_cars_price_prediction_with_mlModels) | Birden fazla ML modeliyle ikinci el araç fiyat tahmini | Python, Scikit-learn |
+| [Drone Kamera — Yaya & Tasit Tespiti](https://github.com/Yusufygc/Dron_Kamera_Goruntulari_Uzerinde_Yaya_VE_Tasit_Tespiti) | Drone goruntülerinde derin ogrenme tabanli nesne tespiti | Python, OpenCV, Deep Learning |
+| [Goruntu Isleme ile Yaya Tespiti](https://github.com/Yusufygc/Goruntu_Isleme_ile_Yaya_Tespiti) | Klasik goruntu isleme yontemleriyle yaya tespiti | Python, OpenCV |
+| [Derin Ogrenme & CNN](https://github.com/Yusufygc/DerinOgrenme_ve_CNN) | CNN mimarileri ve derin ogrenme calismalar | Python, TensorFlow |
+| [Used Cars Price Prediction](https://github.com/Yusufygc/Used_cars_price_prediction_with_mlModels) | Birden fazla ML modeliyle ikinci el arac fiyat tahmini | Python, Scikit-learn |
 
 ---
 
-## GitHub İstatistikleri
+## GitHub Istatistikleri
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yusufygc&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufygc&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=yusufygc&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
 </div>
 
